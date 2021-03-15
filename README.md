@@ -1,6 +1,6 @@
 # sol2_ImGui_Bindings
 
-Welcome to the sol2 ImGui bindings.
+Welcome to the sol2 ImGui bindings. This library is being developed to support [https://github.com/youneuoy/M2TWEOP-luaPlugin](M2TWEOP-luaPlugin)
 
 
 Enjoy! 
